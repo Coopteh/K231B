@@ -4,7 +4,7 @@
 Учебное видео [Создание базы данных MySQL Workbench](https://www.youtube.com/watch?v=ChLjnsKLoZE)  
 
 1. Найдите в строке поиска `mySQLWorkbench` и запустите программу  
-2. Добавьте новую модель `File \ New Model` и переименуйте ее с `myDB` на `ProductDB-TG231B`
+2. Добавьте новую модель `File \ New Model` и переименуйте ее с `myDB` на `ProductDB-K231B`
 3. Добавьте новую диаграмму через `Add diagram`
 4. Добавьте новую таблицу (нажав на иконку с изображением таблицы)
 ```
@@ -34,7 +34,7 @@ user_id INT NN
 product_id INT NN
 sum FLOAT
 ```
-Сохраните модель `File \ Save model` как `tg231b`
+Сохраните модель `File \ Save model` как `K231b`
 <hr>
 
 ### Задание 2. - Связь между таблицами
