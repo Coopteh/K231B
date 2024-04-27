@@ -51,5 +51,5 @@ product_key (Ref.table product) product_id CASCADE, CASCADE
 ### Задание 3. - Экспорт скрипта на создание и Создание БД
 
 1.Выполните для загруженной модели `File \ Export \ Forward Engeneer SQL CREATE Script`
-и сохраните скрипт
-2. Запустите сервер СУБД `mySQL` через программу `XAMPP Control Panel` (найдите в строке поиска) - нажмите кнопку Start, чтобы надпись mySQL загорелась зеленым
+и сохраните скрипт   
+2. Запустите сервер СУБД `mySQL` через программу `XAMPP Control Panel` (найдите в строке поиска) - нажмите кнопку Start, чтобы надпись mySQL загорелась зеленым   
